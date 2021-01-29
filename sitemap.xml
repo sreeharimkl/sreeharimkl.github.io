@@ -16,7 +16,35 @@
     </url>
   
     <url>
+      <loc>https://sreeharimkl.github.io/categories/</loc>
+      
+      <lastmod>2021-01-26T18:43:20+05:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://sreeharimkl.github.io/tags/google/</loc>
+      
+      <lastmod>2021-01-26T18:43:20+05:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sreeharimkl.github.io/categories/malayalam/</loc>
       
       <lastmod>2021-01-26T18:43:20+05:30</lastmod>
       
@@ -45,6 +73,20 @@
   
     <url>
       <loc>https://sreeharimkl.github.io/posts/</loc>
+      
+      <lastmod>2021-01-26T18:43:20+05:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sreeharimkl.github.io/categories/privacy/</loc>
       
       <lastmod>2021-01-26T18:43:20+05:30</lastmod>
       
@@ -128,34 +170,6 @@
     </url>
   
     <url>
-      <loc>https://sreeharimkl.github.io/categories/</loc>
-      
-      <lastmod>2021-01-25T15:43:34+05:30</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sreeharimkl.github.io/categories/distros/</loc>
-      
-      <lastmod>2021-01-25T15:43:34+05:30</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://sreeharimkl.github.io/tags/gnu/</loc>
       
       <lastmod>2021-01-25T15:43:34+05:30</lastmod>
@@ -198,9 +212,9 @@
     </url>
   
     <url>
-      <loc>https://sreeharimkl.github.io/categories/malayalam/</loc>
+      <loc>https://sreeharimkl.github.io/2020/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%AF%E0%B4%AE%E0%B4%BE%E0%B4%AF%E0%B4%B5%E0%B4%B0%E0%B5%81%E0%B4%9F%E0%B5%86-%E0%B4%B8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%AB%E0%B5%8B%E0%B5%BA-%E0%B4%89%E0%B4%AA%E0%B4%AF%E0%B5%8B%E0%B4%97%E0%B4%82-%E0%B4%8E%E0%B4%B3%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%AE%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%82-%E0%B4%B2%E0%B5%8C%E0%B4%9E%E0%B5%8D%E0%B4%9A%E0%B5%86%E0%B5%BC-%E0%B4%89%E0%B4%AA%E0%B4%AF%E0%B5%8B%E0%B4%97%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D/</loc>
       
-      <lastmod>2021-01-25T15:43:34+05:30</lastmod>
+      <lastmod>2020-12-22T15:43:34+05:30</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -212,7 +226,7 @@
     </url>
   
     <url>
-      <loc>https://sreeharimkl.github.io/2020/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%AF%E0%B4%AE%E0%B4%BE%E0%B4%AF%E0%B4%B5%E0%B4%B0%E0%B5%81%E0%B4%9F%E0%B5%86-%E0%B4%B8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%AB%E0%B5%8B%E0%B5%BA-%E0%B4%89%E0%B4%AA%E0%B4%AF%E0%B5%8B%E0%B4%97%E0%B4%82-%E0%B4%8E%E0%B4%B3%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%AE%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%82-%E0%B4%B2%E0%B5%8C%E0%B4%9E%E0%B5%8D%E0%B4%9A%E0%B5%86%E0%B5%BC-%E0%B4%89%E0%B4%AA%E0%B4%AF%E0%B5%8B%E0%B4%97%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D/</loc>
+      <loc>https://sreeharimkl.github.io/categories/android/</loc>
       
       <lastmod>2020-12-22T15:43:34+05:30</lastmod>
       
