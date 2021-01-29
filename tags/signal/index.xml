@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal on Sreehari Puzhakkal</title>
+    <link>https://sreeharimkl.github.io/tags/signal/</link>
+    <description>Recent content in signal on Sreehari Puzhakkal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jan 2021 18:43:20 +0530</lastBuildDate><atom:link href="https://sreeharimkl.github.io/tags/signal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>സിഗ്നലിൽ എല്ലാ ആശയവിനിമയങ്ങളും നടക്കുന്നത് ആമസോൺ,മൈക്രോസോഫ്റ്റ്, ഗൂഗിൾ,ക്ലൗഡ്ഫ്ലയർ പോലുള്ള ടെക് ഭീമന്മാരിലൂടെ</title>
+      <link>https://sreeharimkl.github.io/2021/signal-uses-amazon/</link>
+      <pubDate>Tue, 26 Jan 2021 18:43:20 +0530</pubDate>
+      
+      <guid>https://sreeharimkl.github.io/2021/signal-uses-amazon/</guid>
+      <description>സിഗ്നലിൽ, എല്ലാ ആശയ വിനിമയങ്ങളും വിവിധ സാങ്കേതിക ഭീമന്മാരായ ആമസോൺ, മൈക്രോസോഫ്റ്റ്, ഗൂഗിൾ തുടങ്ങിയവയിലൂടെ ആണ് നടക്കുന്നത് എന്ന് Kuketz-IT-security ബ്ലോഗിൽ റിപ്പോർട്ട്.കാരണം സിഗ്നലിലെ ഈ ആശയ വിനിമയങ്ങളെ MIKE KUKETZ ഡൊമൈനുകൾ ആയി വിഭജിചപ്പോൾ താഴെ കൊടുത്തിരിക്കുന്ന വിവരങ്ങൾ ആണ് ലഭിച്ചത്
+ആമസോൺ : http://textsecure-service.whispersystems.org,http://cdn.signal.org,http://sfu.voip.signal.org ഗൂഗിൾ : http://storage.signal.org,http://contentproxy.signal.org മൈക്രോസോഫ്റ്റ് : http://api.directory.signal.org,http://api.backup.signal.org, ക്ലൗഡ്ഫ്ലയർ : http://cdn2.signal.org
+ഇതിൽ സന്ദേശങ്ങളുടെ കൈമാറ്റം (textsecure-service.whispersystems.org)AWS വഴി ആണ് നടക്കുന്നത് എന്ന് കണ്ടെത്തി. അത്പൊലെ ഗ്രൂപ്പുകൾ സൃഷ്ടിക്കുന്നതിനും കൈകാര്യം ചെയ്യുന്നതിനും Google ഡാറ്റ സെർവറുകളും (storage.signal.org) ഉപയോഗിക്കുന്നു.മൊത്തത്തിൽ പറയുമ്പോൾ എല്ലാ ആശയവിനിമയങ്ങളും നടക്കുന്നത് ടെക് ഭീമന്മാരുടെ കേന്ദ്ര സെർവറുകൾ വഴിയാണ്.</description>
+    </item>
+    
+  </channel>
+</rss>

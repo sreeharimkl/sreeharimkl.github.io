@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sreehari Puzhakkal on Sreehari Puzhakkal</title>
+    <link>https://sreeharimkl.github.io/</link>
+    <description>Recent content in Sreehari Puzhakkal on Sreehari Puzhakkal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jan 2021 18:43:20 +0530</lastBuildDate>
+    <atom:link href="https://sreeharimkl.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://sreeharimkl.github.io/posts/</link>
+      <pubDate>Tue, 26 Jan 2021 18:43:20 +0530</pubDate>
+      
+      <guid>https://sreeharimkl.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://sreeharimkl.github.io/about/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      
+      <guid>https://sreeharimkl.github.io/about/</guid>
+      <description>&lt;p&gt;Hello.. I am &lt;strong&gt;Sreehari Puzhakkal&lt;/strong&gt;. I Live in &lt;strong&gt;India&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You can contact me using
+&lt;a href=&#34;t.me/sreeharimkl&#34;&gt;Telegram&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
